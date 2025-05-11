@@ -19,7 +19,7 @@ Each legal opcode (00-FF and CB 00 - CB FF) has a .json file. Each .json file re
     "h": 98,
     "l": 251,
     "ime": 0,
-    "ei": 0,
+    "ie": 0,
     "ram": [
       [
         16826,
@@ -43,7 +43,7 @@ Each legal opcode (00-FF and CB 00 - CB FF) has a .json file. Each .json file re
     "pc": 16827,
     "sp": 9383,
     "ime": 0,
-    "ei": 0,
+    "ie": 0,
     "ram": [
       [
         16826,
